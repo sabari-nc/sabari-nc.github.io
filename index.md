@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Sabari Nathan, C."
 permalink: /
 ---
 Hello!
