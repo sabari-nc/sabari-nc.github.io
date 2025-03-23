@@ -1,0 +1,22 @@
+# Site settings
+title: "Sabari Nathan, C. PhD"
+description: "Portfolio of Sabari Nathan"
+baseurl: ""  # Leave this empty for GitHub Pages
+url: "https://sabari-nc.github.io"
+
+# Author settings
+author:
+  name: "Sabari Nathan, C."
+  email: "sabarinathan070@outlook.com"
+  twitter: "sabarinathan070"
+  scholar: "https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf"
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-feed
