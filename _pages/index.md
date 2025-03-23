@@ -4,7 +4,7 @@ title: "Sabari Nathan, C."
 permalink: /
 ---
 
-<img src="/assets/images/profile.jpg" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
+<img src="/assets/images/favicon.ico" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
 
 ## 👋 Hi, I’m **Sabari Nathan, C.**
 
