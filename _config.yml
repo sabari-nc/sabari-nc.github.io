@@ -1,0 +1,39 @@
+# Site settings
+title: "Sabari Nathan, C. PhD"
+description: "Portfolio of Sabari Nathan"
+baseurl: ""  # Leave this empty for GitHub Pages
+url: "https://sabari-nc.github.io"
+
+# Navigation Bar
+header_pages:
+  - _pages/index.md
+  - _pages/publications.md
+  - _pages/cv.md
+
+# Author settings
+author:
+  name: "Sabari Nathan, C."
+  email: "sabarinathan070@outlook.com"
+  twitter: "sabarinathan070"
+  scholar: "https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf"
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: compressed
