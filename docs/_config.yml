@@ -20,3 +20,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-archives
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: compressed
