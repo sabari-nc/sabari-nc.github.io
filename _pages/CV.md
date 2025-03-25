@@ -6,4 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-[Download CV (PDF)](assets/Sabari_CV_06012025.pdf)
+---
+
+### 📄 Preview CV Below:
+<iframe src="/assets/Sabari_CV_06012025.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
