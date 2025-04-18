@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <img src="{{ 'docs/assets/images/profile.jpg' | relative_url }}" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
----
+<hr>
 
 ### 🌱 About Me:
 I specialize in monitoring landslides and assessing slope stability within mountainous regions prone to anthropogenic impacts. My work extensively involves applying geophysical techniques, specifically ground pulsation studies. I actively contribute to developing mitigation strategies, utilizing bioengineering and various engineering practices to address environmental challenges. My involvement extends to research in the fields of micropaleontology (Foraminifera) and environmental geochemistry.
