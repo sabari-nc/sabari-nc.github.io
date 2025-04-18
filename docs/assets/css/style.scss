@@ -53,3 +53,26 @@ a:hover {
     background-color: #fff;
   }
 }
+
+// Reduce horizontal padding and increase content width
+.page,
+.page__inner-wrap,
+.archive,
+.layout--single,
+.page__content {
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .page,
+  .page__inner-wrap,
+  .archive,
+  .layout--single,
+  .page__content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
