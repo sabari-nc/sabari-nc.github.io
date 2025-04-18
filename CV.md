@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "CV"
-permalink: /
+permalink: /cv/
 ---
+
+<h3><a href="/">Home</a> | <a href="/publications/">Publications</a></h3>
 
 ## Curriculum Vitae
 
