@@ -3,7 +3,9 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-<h3><a href="/">Home</a> | <a href="/cv/">CV</a></h3>
+<header class="page-header">
+  <h1><a href="/">Home</a> | <a href="/cv/">CV</a></h1>
+</header>
 
 ## Publications
 

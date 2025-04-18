@@ -4,7 +4,7 @@ title: "Sabari Nathan, C."
 permalink: /
 ---
 
-<img src="{{ 'docs/assets/images/profile.jpg' | relative_url }}" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
+<img src="../assets/images/profile.jpg" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
 <hr>
 
 ### 🌱 About Me:

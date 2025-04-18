@@ -6,9 +6,9 @@ url: "https://sabari-nc.github.io"
 
 # Navigation Bar
 header_pages:
-  - _pages/index.md
-  - _pages/publications.md
-  - _pages/CV.md
+  - index.md
+  - publications.md
+  - CV.md
 
 # Author settings
 author:
