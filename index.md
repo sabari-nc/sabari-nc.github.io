@@ -12,7 +12,7 @@ I specialize in monitoring landslides and assessing slope stability within mount
 
 ## Message: 
 The site is under construction untill then you can visit my other webpage here
-- [GoogleSite] (https://sites.google.com/view/sabarinc/home)
+- [GoogleSite] (href="https://sites.google.com/view/sabarinc/home")
 
 <h3>📫 Social Media:</h3>
 <p>
