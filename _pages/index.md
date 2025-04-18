@@ -14,7 +14,7 @@ I specialize in monitoring landslides and assessing slope stability within mount
 The site is under construction untill then you can visit my other webpage here
 - [GoogleSite] (https://sites.google.com/view/sabarinc/home)
 
-<h3>📫 Connect with me:</h3>
+<h3>📫 Social Media:</h3>
 <p>
   <a href="https://linkedin.com/in/sabarinathan070" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right: 10px;">
