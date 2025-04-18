@@ -5,16 +5,6 @@ permalink: /
 ---
 
 <img src="{{ 'docs/assets/images/profile.jpg' | relative_url }}" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
-
-## 👋 Hi, I’m **Sabari Nathan, C.**
-
----
-
-### 📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/sabarinathan070)
-- [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf)
-
 ---
 
 ### 🌱 About Me:
@@ -23,3 +13,10 @@ I specialize in monitoring landslides and assessing slope stability within mount
 ## Message: 
 The site is under construction untill then you can visit my other webpage here
 - [GoogleSite] (https://sites.google.com/view/sabarinc/home)
+
+
+### 📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/sabarinathan070)
+- [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf)
+---
