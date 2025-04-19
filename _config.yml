@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hazards Impacts Research"
+title                    : "Sabari Nathan, C. (Ph.D.)"
 title_separator          : "-"
-name                     : &name "Nicole D. Jackson, Ph.D."
+name                     : &name "Sabari Nathan,C. (Ph.D.)"
 description              : &description "personal description"
-url                      : https://ndjackso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sabari-nc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ndjackso/ndjackso.github.io"
+repository               : "sabari-nc/sabari-nc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,14 +71,6 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "goolge-gtag" # old "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    #tracking_id          : "UA-207387877-1"
-    measurement_id       : "G-VN4W0JXPV0"
-
-
 # Site Author
 author:
   name             : "Sabari Nathan, C. (Ph.D.)"
@@ -87,9 +79,9 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dOzcnYUAAAAJ&hl=en"
-  email            :  "jackson.nicole.d@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Nicole-Jackson-3"
+  googlescholar    : "https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en"
+  email            :  "sabarinathan070@outlook.com"
+  researchgate     :  "https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +89,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ndjackso"
+  github           : "sabari-nc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3814-9906"
+  linkedin         : "https://linkedin.com/in/sabarinathan070"
+  orcid            : "https://orcid.org/0000-0001-9876-1657"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "JacksonNicoleD"
+  twitter          : "sabarinathan070"
   vine             :
   weibo            :
   xing             :
