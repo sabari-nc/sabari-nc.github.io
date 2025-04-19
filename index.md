@@ -2,28 +2,16 @@
 layout: home
 title: "Sabari Nathan, C."
 permalink: /
+author_profile: true
 ---
 
-<img src="../assets/images/profile.jpg" alt="Sabari Nathan C." width="200" style="border-radius: 50%;">
-<hr>
-
-### 🌱 About Me:
 I specialize in monitoring landslides and assessing slope stability within mountainous regions prone to anthropogenic impacts. My work extensively involves applying geophysical techniques, specifically ground pulsation studies. I actively contribute to developing mitigation strategies, utilizing bioengineering and various engineering practices to address environmental challenges. My involvement extends to research in the fields of micropaleontology (Foraminifera) and environmental geochemistry.
 
-## Message:
-The site is under construction. Kindly visit my other webpage for further updates.
-- [GoogleSite](https://sites.google.com/view/sabarinc/home)
+This site is built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted with [GitHub Pages](https://pages.github.com).
 
-<h3>📫 Social Media:</h3>
-<p>
-  <a href="https://linkedin.com/in/sabarinathan070" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right: 10px;">
-  </a>
-  <a href="https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.png" alt="Google Scholar" width="30" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30">
-  </a>
-</p>
----
+For updates or additional content, you may also visit my [Google Site](https://sites.google.com/view/sabarinc/home).
+
+You can find me on:
+- [LinkedIn](https://linkedin.com/in/sabarinathan070)
+- [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf)
