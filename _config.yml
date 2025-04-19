@@ -14,6 +14,10 @@ description              : &description "personal description"
 url                      : https://sabari-nc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sabari-nc/sabari-nc.github.io"
+header_pages:
+  - index.md
+  - _pages/publications.md
+  - _pages/CV.md
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -90,32 +94,8 @@ author:
   googlescholar    : "https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en"
   email            :  "sabarinathan070@outlook.com"
   researchgate     :  "https://www.researchgate.net/profile/Sabari-Nathan-C?ev=hdr_xprf"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "sabari-nc"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-9876-1657"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : "sabarinathan070"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 # Reading Files
 include:

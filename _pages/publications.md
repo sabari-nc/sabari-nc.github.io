@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
-<header class="page-header">
-  <h1><a href="/">Home</a> | <a href="/cv/">CV</a></h1>
-</header>
 
 ## Publications
 
