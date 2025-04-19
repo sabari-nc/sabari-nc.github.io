@@ -13,10 +13,10 @@ I am currently pursuing my research as a Research Scholar in the [Centre for Dis
 Research Focus
 My overarching research goal is to enhance the resilience of critical infrastructure against landslide hazards. Specifically, my work aims to:
 
-<ol
-  <li>Understand the conditions and dynamics under which rainfall-induced landslides occur</li>
-  <li>Improve the accuracy and effectiveness of landslide susceptibility mapping</li>
-  <li>Quantify the impacts of landslides on critical infrastructure through integrated, multidisciplinary assessments</li>
+<ol>
+<li>Understand the conditions and dynamics under which rainfall-induced landslides occur</li>
+<li>Improve the accuracy and effectiveness of landslide susceptibility mapping</li>
+<li>Quantify the impacts of landslides on critical infrastructure through integrated, multidisciplinary assessments</li>
 </ol>
 
 To achieve this, I draw from a broad skillset—blending data science, climate science, and risk management to develop actionable solutions for mitigating landslide risks.
