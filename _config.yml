@@ -7,7 +7,7 @@ repository: "sabari-nc/sabari-nc.github.io"
 
 # Navigation Bar
 header_pages:
-  - index.md
+  - about.md
   - publications.md
   - CV.md
 
