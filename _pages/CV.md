@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: archive
 title: "CV"
 permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-<header class="page-header">
-  <h1><a href="/">Home</a> | <a href="/publications/">Publications</a></h1>
-</header>
+{% comment %} 
+    Embed the PDF of the CV
+{% endcomment %}
 
-## Curriculum Vitae
+ <a href="https://github.com/sabari-nc/sabari-nc.github.io/blob/main/assets/Sabari_CV_06012025.pdf" target="_blank">Click here</a> if file does not properly load. 
 
----
-
-### 📄 Preview CV Below:
-<iframe src="../assets/Sabari_CV_06012025.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
+<object data="{{ site.url }}{{ site.baseurl }}/files/nicole_jackson_cv.pdf" width="800" height="600" type="application/pdf"></object>
