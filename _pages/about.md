@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 
-I am currently a Research Scholar in the [Centre for Disaster Mitigation and Management](https://vit.ac.in/centers/cdmm) at [Vellore Institute of Technology (VIT)](https://www.vit.ac.in/) under [Dr. G.P. Ganapathy] (https://vitdirectory.vit.ac.in/page/faculty/11345) My current work focuses on investigation of lanslide transportation interaction corridor using remote sensing and geophysical techniques. Previously, I completed my M.Sc. in Applied Geology and Dissertation under Dr. Rajeshwara Rao at the University of Madras, Chennai. There, my work focused on Epiphtal Foraminifera motility in seagrass and seaweeds and environmental geochemistry concering pollution on riverine ecosystems.
+<p style="text-align: justify;">I am currently pursuing my research as a <strong>Research Scholar</strong> at the <a href="https://vit.ac.in/centers/cdmm">Centre for Disaster Mitigation and Management (CDMM)</a>, <a href="https://www.vit.ac.in/">Vellore Institute of Technology (VIT)</a>, under the guidance of <a href="https://vitdirectory.vit.ac.in/page/faculty/11345">Dr. G. P. Ganapathy</a>. My current research focuses on investigating <strong>landslide-transportation interaction corridors</strong> using an integrated approach of <strong>remote sensing</strong> and <strong>geophysical techniques</strong>. Previously, I completed my <strong>M.Sc. in Applied Geology</strong> at the <strong>University of Madras</strong>, Chennai, where I worked under the supervision of <strong>Dr. Rajeshwara Rao</strong>. My dissertation explored the <strong>motility of epiphytic foraminifera in seagrass and seaweed habitats</strong>, as well as <strong>environmental geochemistry related to pollution in riverine ecosystems</strong>.</p>
 
-My overarching research goal is to mitigate the resiliency of critical infrastructure to landslides. In particular, my research seeks to:
+<h3>Research Focus</h3>
+<p style="text-align: justify;">My overarching research goal is to <strong>enhance the resilience of critical infrastructure against landslide hazards</strong>. Specifically, my work aims to:</p>
 
-<ol>
-<li> understand the context under which rainfall and landslide occur </li>
-<li> investigate and improve the landslide susceptibility mapping techniques and accuracy </li>
-<li> quantify  impacts to critical infrastructure from hazards via integrated assessments </li> 
+<ol style="text-align: justify;">
+  <li>Understand the conditions and dynamics under which <strong>rainfall-induced landslides</strong> occur</li>
+  <li>Improve the <strong>accuracy and effectiveness of landslide susceptibility mapping</strong></li>
+  <li>Quantify the <strong>impacts of landslides on critical infrastructure</strong> through integrated, multidisciplinary assessments</li>
 </ol>
 
-To do so, my work blends data science, climate science, econometrics, and risk management to mitigate landslide problems.
+<p style="text-align: justify;">To achieve this, I draw from a broad skillset—blending <strong>data science</strong>, <strong>climate science</strong>, <strong>econometrics</strong>, and <strong>risk management</strong>—to develop actionable solutions for mitigating landslide risks.</p>
