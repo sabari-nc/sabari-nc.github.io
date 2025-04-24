@@ -9,11 +9,11 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100352. </li>
+<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100351. </li>
 
-<li> V. Gopal, R.R. Krishnamurthy, R. Vignesh, <b>C. Sabari Nathan</b>, R. Anshu, R. Kalaivanan, P. Mohana, N.S. Magesh, K. Manikanda Bharath, A.Z. Ekoa Bessa, K. Abdelrahman, M. Abioui. (2023)  <a href="https://doi.org/10.1016/j.rsma.2023.103081" style="color: black">Assessment of heavy metal contamination in the surface sediments of the Vedaranyam coast, Southern India.</a>, <em>Regional Studies in Marine Science</em>, 103081, ISSN 2352-4855. </li>
+<li> V. Gopal, R.R. Krishnamurthy, R. Vignesh, <b>C. Sabari Nathan</b>, R. Anshu, R. Kalaivanan, P. Mohana, N.S. Magesh, K. Manikanda Bharath, A.Z. Ekoa Bessa, K. Abdelrahman, M. Abioui. (2023)  <a href="https://doi.org/10.1016/j.rsma.2023.103081" style="color: black">Assessment of heavy metal contamination in the surface sediments of the Vedaranyam coast, Southern India.</a>, <em>Regional Studies in Marine Science</em>, Vol 65, pp 103081. </li>
 
-<li>  V. Gopal, R.R. Krishnamurthy, T. Sreeshma, P. Chakraborty, <b>C. Sabari Nathan</b>, R. Kalaivanan, and M. Jayaprakash. (2021)  <a href="https://doi.org/10.1016/j.marpolbul.2021.112741" style="color: black">Effect of a tropical cyclone on the distribution of heavy metals in the marine sediments off Kameswaram, Southeast coast of India</a>, <em>Marine Pollution Bulletin</em>, 171, 112741. </li>
+<li>  V. Gopal, R.R. Krishnamurthy, T. Sreeshma, P. Chakraborty, <b>C. Sabari Nathan</b>, R. Kalaivanan, and M. Jayaprakash. (2021)  <a href="https://doi.org/10.1016/j.marpolbul.2021.112741" style="color: black">Effect of a tropical cyclone on the distribution of heavy metals in the marine sediments off Kameswaram, Southeast coast of India</a>, <em>Marine Pollution Bulletin</em>, Vol 171, pp 112741. </li>
 </ol>
 
 ### Conference Proceedings (Published)
@@ -29,12 +29,12 @@ author_profile: true
 
 ### Research Publications in Progress
 
-1. **V Gopal., R.R Krishnamurthy., R Deepika., C. Sabari Nathan., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2024).** Assessment of Heavy Metal Contamination in Urban Rivers: Spatial Distribution, Human Health Risks, and Statistical Analysis. *Aquatic Toxicology.* (Status: under review)
+1. **Sabari Nathan, C., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025).** Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted)
 
-2. **Sabari Nathan, C., Ganapathy., G.P. (2024).** Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation)
+2. **V Gopal., R.R Krishnamurthy., R Deepika., C. Sabari Nathan., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2024).** Assessment of Heavy Metal Contamination in Urban Rivers: Spatial Distribution, Human Health Risks, and Statistical Analysis. *Aquatic Toxicology.* (Status: under review)
 
-3. **Sabari Nathan, C., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2024).** Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted)
+3. **Sabari Nathan, C., Ganapathy., G.P. (2025).** Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation)
 
-4. **Sabari Nathan, C. and Ganapathy, G.P. (2023).** Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. *Geoderma Regional* (Status: under review)
+4. **Sabari Nathan, C. and Ganapathy, G.P. (2025).** Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. *Geoderma Regional* (Status: under review)
 
-5. **Sabari Nathan, C. & Ganapathy, G.P. (2024).** Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review)
+5. **Sabari Nathan, C. & Ganapathy, G.P. (2025).** Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review)
