@@ -7,6 +7,7 @@ excerpt: "Reflections on India’s preparedness and response to the escalating c
 image: /images/blog/climate-change-india.jpg
 ---
 
+{% raw %}
 <div style="text-align: justify; line-height: 1.15; margin: 0 1.5rem;">
 <!-- BEGIN CUSTOM STYLING -->
 Climate change is a decades-old word which is an important topic from the 1980’s and still its significance is not considered. India is 3rd world's largest emitter of greenhouse gases behind China and US. Yes...! we are third, and we also signed the 2015 Paris agreement (to reduce and mitigate greenhouse gas emissions). We still aren’t talking about Climate change impacts on our weather systems. Unusual rains, heatwaves, changing river flows, collapsing ecological dynamics, depleting natural resources, and so on. The world is trying to get rid of fossil fuel habits, but we are still relying on it. The cooperation that we are giving is a stampede to automobile showrooms when the Government announces the ban of selling the BS4 vehicles to bring down the pollution. We knew that the 2015 flood in Chennai was the effect of climate change due to the rise in carbon emission which lead to extreme rainfall. The 21st century is witnessing CO2 content in the atmosphere going up to 6 to 10 parts per 10,000, which means we are injecting 30 billion tonnes of CO2 every year to our atmosphere. In 2019, Prime Minister Modi while addressing the United Nations Climate Action Summit in New York said that “The respect for nature, the judicious use of resources, reducing our needs and living within our means have all been important aspects of both our traditions and present-day efforts. ‘Need, not greed’ has been our guiding principle”.
@@ -20,3 +21,4 @@ The answer to the question “IS INDIA IGNORING THE CLIMATE CHANGE?” is to be 
 © Sabari Nathan, C. & ECOR Foundation
 <!-- END CUSTOM STYLING -->
 </div>
+{% endraw %}
