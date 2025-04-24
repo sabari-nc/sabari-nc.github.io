@@ -8,11 +8,11 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black"> Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India  </a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100352. </li>
+<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  [Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India](https://doi.org/10.1016/j.pdisas.2024.100351),  <em>Progress in Disaster Science</em>, Vol 23, pp 100352. </li>
 
-<li> V. Gopal, R.R. Krishnamurthy, R. Vignesh, <b>C. Sabari Nathan</b>, R. Anshu, R. Kalaivanan, P. Mohana, N.S. Magesh, K. Manikanda Bharath, A.Z. Ekoa Bessa, K. Abdelrahman, M. Abioui. (2023)  <a href="https://doi.org/10.1016/j.rsma.2023.103081" style="color: black"> Assessment of heavy metal contamination in the surface sediments of the Vedaranyam coast, Southern India. </a>, <em>Regional Studies in Marine Science</em>, 103081, ISSN 2352-4855. </li>
+<li> V. Gopal, R.R. Krishnamurthy, R. Vignesh, <b>C. Sabari Nathan</b>, R. Anshu, R. Kalaivanan, P. Mohana, N.S. Magesh, K. Manikanda Bharath, A.Z. Ekoa Bessa, K. Abdelrahman, M. Abioui. (2023)  [Assessment of heavy metal contamination in the surface sediments of the Vedaranyam coast, Southern India.](https://doi.org/10.1016/j.rsma.2023.103081), <em>Regional Studies in Marine Science</em>, 103081, ISSN 2352-4855. </li>
 
-<li>  V. Gopal, R.R. Krishnamurthy, T. Sreeshma, P. Chakraborty, <b>C. Sabari Nathan</b>, R. Kalaivanan, and M. Jayaprakash. (2021)  <a href="https://doi.org/10.1016/j.marpolbul.2021.112741" style="color: black">    Effect of a tropical cyclone on the distribution of heavy metals in the marine sediments off Kameswaram, Southeast coast of India  </a>, <em>Marine Pollution Bulletin</em>, 171, 112741. </li>
+<li>  V. Gopal, R.R. Krishnamurthy, T. Sreeshma, P. Chakraborty, <b>C. Sabari Nathan</b>, R. Kalaivanan, and M. Jayaprakash. (2021)  [Effect of a tropical cyclone on the distribution of heavy metals in the marine sediments off Kameswaram, Southeast coast of India](https://doi.org/10.1016/j.marpolbul.2021.112741), <em>Marine Pollution Bulletin</em>, 171, 112741. </li>
 </ol>
 
 ### Conference Proceedings (Published)
@@ -21,7 +21,7 @@ author_profile: true
 
 <li> <b>Sabari Nathan, C.</b> and Ganapathy, G.P. (2024, December). A Spatio-geophysical Approach for Landslide Hazard Mitigation in the Nilgiris Region, Western Ghats, India. <em> AGU Fall Meeting Abstracts</em>, NH11B-2221. </li>
 
-<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024) <a href="https://ui.adsabs.harvard.edu/abs/2023AGUFMNH13D0714N/abstract" style="color:black"> Evaluation of Precipitation Indices as a Landslide Triggering Factor in Parts of the Western Ghats, India </a>, <em> AGU Fall Meeting Abstracts</em>, NH13D-0714. </li>
+<li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024) [Evaluation of Precipitation Indices as a Landslide Triggering Factor in Parts of the Western Ghats, India](https://ui.adsabs.harvard.edu/abs/2023AGUFMNH13D0714N/abstract), <em> AGU Fall Meeting Abstracts</em>, NH13D-0714. </li>
 
 </ol>
 
