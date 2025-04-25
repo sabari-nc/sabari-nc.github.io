@@ -18,7 +18,7 @@ author_profile: true
 
 ### Conference Proceedings (Published)
 
-<ol>
+<ol reversed>
 
 <li> <b>Sabari Nathan, C.</b> and Ganapathy, G.P. (2024, December). A Spatio-geophysical Approach for Landslide Hazard Mitigation in the Nilgiris Region, Western Ghats, India. <em> AGU Fall Meeting Abstracts</em>, NH11B-2221. </li>
 
@@ -29,12 +29,16 @@ author_profile: true
 
 ### Research Publications in Progress
 
-1. **Sabari Nathan, C., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025).** Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted)
+<ol reversed>
 
-2. **V Gopal., R.R Krishnamurthy., R Deepika., C. Sabari Nathan., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2024).** Assessment of Heavy Metal Contamination in Urban Rivers: Spatial Distribution, Human Health Risks, and Statistical Analysis. *Aquatic Toxicology.* (Status: under review)
+<li> Sabari Nathan, C. & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review) </li>
 
-3. **Sabari Nathan, C., Ganapathy., G.P. (2025).** Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation)
+<li> Sabari Nathan, C. and Ganapathy, G.P. (2025). Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. Geoderma Regional (Status: under review) </li>
 
-4. **Sabari Nathan, C. and Ganapathy, G.P. (2025).** Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. *Geoderma Regional* (Status: under review)
+<li> V Gopal., R.R Krishnamurthy., R Deepika., C. Sabari Nathan., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2024). Assessment of Heavy Metal Contamination in Urban Rivers: Spatial Distribution, Human Health Risks, and Statistical Analysis. Aquatic Toxicology. (Status: under review) </li>
 
-5. **Sabari Nathan, C. & Ganapathy, G.P. (2025).** Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review)
+<li> Sabari Nathan, C., Ganapathy., G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
+
+<li> Sabari Nathan, C., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025). Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted) </li>
+
+</ol>
