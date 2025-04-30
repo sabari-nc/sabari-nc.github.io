@@ -8,7 +8,8 @@ author_profile: true
 ## Peer-reviewed publications
 
 <ol reversed>
-<li> V Gopal., R.R Krishnamurthy., Bhuvaneshwari, V., R Deepika., <b>Sabari Nathan, C.</b>., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2025). <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black"> Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts. <em>Journal of Hazardous Materials Advances</em>. 100733. </li>
+
+<li> V Gopal., R.R Krishnamurthy., Bhuvaneshwari, V., R Deepika., <b>Sabari Nathan, C.</b>., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2025). <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black">Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts. <em>Journal of Hazardous Materials Advances</em>. 100733. </li>
 
 <li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100351. </li>
 
