@@ -8,6 +8,7 @@ author_profile: true
 ## Peer-reviewed publications
 
 <ol reversed>
+<li> V Gopal., R.R Krishnamurthy., Bhuvaneshwari, V., R Deepika., <b>Sabari Nathan, C.</b>., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2025). <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black"> Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts. <em>Journal of Hazardous Materials Advances</em>. 100733. </li>
 
 <li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100351. </li>
 
@@ -34,8 +35,6 @@ author_profile: true
 <li> Sabari Nathan, C. & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review) </li>
 
 <li> Sabari Nathan, C. and Ganapathy, G.P. (2025). Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. Geoderma Regional (Status: under review) </li>
-
-<li> V Gopal., R.R Krishnamurthy., R Deepika., C. Sabari Nathan., R Manikanda Bharath., N.S Magesh., Ramamoorthy., A. (2024). Assessment of Heavy Metal Contamination in Urban Rivers: Spatial Distribution, Human Health Risks, and Statistical Analysis. Aquatic Toxicology. (Status: under review) </li>
 
 <li> Sabari Nathan, C., Ganapathy., G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
 
