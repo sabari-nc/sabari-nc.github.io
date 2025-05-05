@@ -22,7 +22,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>Sabari Nathan, C.</b> and Ganapathy, G.P. (2024, December). <a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMNH11B2221N/abstract" style="color: black">A Spatio-geophysical Approach for Landslide Hazard Mitigation in the Nilgiris Region, Western Ghats, India</a>, <em> AGU Fall Meeting Abstracts</em>, Art. no. NH11B-2221. </li>
+<li> <b>Sabari Nathan, C.</b> and Ganapathy, G.P. (2024, December). <a href="https://ui.adsabs.harvard.edu/abs/2024AGUFMNH11B2221N/abstract" style="color: black">A Spatio-geophysical Approach for Landslide Hazard Mitigation in the Nilgiris Region, Western Ghats, India</a>, <em>AGU Fall Meeting Abstracts</em>, Art. no. NH11B-2221. </li>
 
 <li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024) <a href="https://ui.adsabs.harvard.edu/abs/2023AGUFMNH13D0714N/abstract" style="color: black">Evaluation of Precipitation Indices as a Landslide Triggering Factor in Parts of the Western Ghats, India</a>, <em> AGU Fall Meeting Abstracts</em>, Art. no. NH13D-0714. </li>
 </ol>
