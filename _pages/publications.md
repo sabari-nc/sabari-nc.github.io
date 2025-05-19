@@ -32,9 +32,9 @@ author_profile: true
 
 <ol reversed>
 
-<li> Sabari Nathan, C. & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. Geomatics, Natural Hazards and Risk (Status: under review) </li>
+<li> Sabari Nathan, C. & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India. (Status: under review) </li>
 
-<li> Sabari Nathan, C. and Ganapathy, G.P. (2025). Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. Geoderma Regional (Status: under review) </li>
+<li> Sabari Nathan, C. and Ganapathy, G.P. (2025). Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. (Status: under review) </li>
 
 <li> Sabari Nathan, C., Ganapathy., G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
 
