@@ -171,9 +171,9 @@ collections:
 #  teaching:
 #    output: true
 #    permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
+#  cv:
+#    output: true
+#    permalink: /:collection/:path/
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
