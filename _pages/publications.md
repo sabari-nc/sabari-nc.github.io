@@ -9,7 +9,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>Sabari Nathan, C.<b> & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India., <em>Geomatics, Geomatics, Natural Hazards and Risk. </li>
+<li> <b>Sabari Nathan, C.</b> & Ganapathy, G.P. (2025). Evaluation of Ground Conditions and Vehicle-Induced Vibration Using Spatio-Geophysical Approach for The Nilgiris Landslide Transportation Interaction Corridor, Western Ghats, India., <em>Geomatics, Geomatics, Natural Hazards and Risk. </li>
 
 <li> V. Gopal, R.R. Krishnamurthy, M. Bhuvaneshwari, R. Deepika, <b>C. Sabari Nathan</b>, R Manikanda Bharth, N.S. Magesh, Ramamoorthy., A. (2025)  <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black">Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts.</a>, <em>Journal of Hazardous Materials Advances</em>, Vol 19, pp 100733. </li>
 
