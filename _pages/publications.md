@@ -36,7 +36,7 @@ author_profile: true
 
 <li> Sabari Nathan, C. and Ganapathy, G.P. (2025). Understanding Hydrological Behavior and Slope Dynamics for Enhancing Early Warning Systems for Landslides: An Overview. (Status: under review) </li>
 
-<li> Sabari Nathan, C., Ganapathy., G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
+<li> Sabari Nathan, C., Ganapathy, G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
 
-<li> Sabari Nathan, C., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025). Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted) </li>
+<li> Sabari Nathan, C., Ganapathy, G.P., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025). Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted) </li>
 </ol>
