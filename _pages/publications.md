@@ -39,4 +39,5 @@ author_profile: true
 <li> Sabari Nathan, C., Ganapathy, G.P. (2025). Quantifying Land Subsidence and Characterizing Subsurface Conditions Using InSAR and Geophysical Techniques in the Nilgiris region, Western Ghats, India. (Status: under preparation) </li>
 
 <li> Sabari Nathan, C., Ganapathy, G.P., Sen, P., Saravana Ganesh Manoharan & Ganapathy, G.P. (2025). Investigating the Recurrence of Landslides in the Nilgiris Mountain Railway: A Multi-Factor Analysis Using Historical Data (1957–2022). (Status: yet to be submitted) </li>
+<li> Prakasheswar, P., Ramya, S. \& Sabari Nathan, C. From Source to Sea: A Comparative Policy Review on Mitigating Microplastic Pollution in Estuaries Worldwide and in India. (Status: yet to be submitted) </li>
 </ol>
