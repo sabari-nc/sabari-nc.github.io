@@ -1,36 +1,25 @@
 ---
-layout: post
 title: "How I Trick Python Into Making Fancy Maps"
 date: 2025-09-29
-categories: [python, mapping, blog]
-tags: [DEM, GIS, Python, Cartography]
+layout: post
 author_profile: true
+image: /images/blog/study-area-map.jpg
 ---
 
-# How I Trick Python Into Making Fancy Maps  
+Every research project needs that one “study area map” everyone keeps asking for. You know, the one with hills in the background, boundaries neatly drawn, points sprinkled on top, and a compass just to look professional.
 
-Every research project needs that one “study area map” everyone keeps asking for. You know, the one with hills in the background, boundaries neatly drawn, points sprinkled on top, and a compass just to look professional.  
+Usually, making that map means opening up GIS software, dragging layers around, changing colors, resizing labels. I decided to make Python do it instead.
 
-Usually, making that map means opening up GIS software, dragging layers around, changing colors, resizing labels… basically wasting an afternoon. I decided: nope, I’ll make Python do it for me.  
+## What you need
 
-Now Python is my unpaid cartographer. I just feed it files, and it hands me back a polished map. Here’s how.  
+- **DEM file** (`dem.tif`) — your hills and valleys.
+- **District boundary** (`district.shp`) — your area outline.
+- **Optional**: landslide points (`landslides.gpkg`), station points (`stations.shp`).
+- **Optional**: a folder called `layers/` for extras like roads or rivers.
 
----
+## The recipe
 
-## The Shopping List  
-
-Before Python cooks up the map, you need these ingredients:  
-
-- **DEM file** (`dem.tif`) → basically a photo of hills and valleys in numbers.  
-- **District boundary** (`district.shp`) → the outline of your kingdom.  
-- **Optional toppings** → points for landslides, triangles for stations.  
-- **Extras folder** (`layers/`) → roads, rivers, secret chai stalls… anything you want thrown on top.  
-
----
-
-## The Recipe (a.k.a. The Code)  
-
-Here’s the magic recipe. Don’t worry about the scary words inside. I’ve translated the comments into plain English.  
+Copy the code below into a `.py` file or a notebook cell.
 
 ```python
 import rasterio, numpy as np, geopandas as gpd, matplotlib.pyplot as plt
