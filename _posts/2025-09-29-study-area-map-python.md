@@ -1,3 +1,12 @@
+---
+layout: post
+title: "How I Trick Python Into Making Fancy Maps"
+date: 2025-09-29
+categories: [python, mapping, blog]
+tags: [DEM, GIS, Python, Cartography]
+author_profile: true
+---
+
 # How I Trick Python Into Making Fancy Maps  
 
 Every research project needs that one “study area map” everyone keeps asking for. You know, the one with hills in the background, boundaries neatly drawn, points sprinkled on top, and a compass just to look professional.  
