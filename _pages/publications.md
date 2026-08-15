@@ -7,13 +7,20 @@ author_profile: true
 
 ## Peer-reviewed publications
 
+### Landslide Hazard & Geophysics
+
 <ol reversed>
 
 <li> <b>Sabari Nathan, C.</b>, & Ganapathy, G. P. (2025)  <a href="https://doi.org/10.1080/19475705.2025.2532046" style="color: black">Evaluation of ground conditions and vehicle-induced vibration using Spatio-geophysical approach for the Nilgiris landslide transportation interaction corridor, Western Ghats, India.</a>, <em>Geomatics, Natural Hazards and Risk</em>, Vol 16(1). </li>
 
-<li> V. Gopal, R.R. Krishnamurthy, M. Bhuvaneshwari, R. Deepika, <b>C. Sabari Nathan</b>, R Manikanda Bharth, N.S. Magesh, Ramamoorthy., A. (2025)  <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black">Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts.</a>, <em>Journal of Hazardous Materials Advances</em>, Vol 19, pp 100733. </li>
-
 <li> <b>Sabari Nathan, C.</b>, and G. P. Ganapathy. (2024)  <a href="https://doi.org/10.1016/j.pdisas.2024.100351" style="color: black">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a>,  <em>Progress in Disaster Science</em>, Vol 23, pp 100351. </li>
+</ol>
+
+### Environmental Geochemistry
+
+<ol reversed>
+
+<li> V. Gopal, R.R. Krishnamurthy, M. Bhuvaneshwari, R. Deepika, <b>C. Sabari Nathan</b>, R Manikanda Bharth, N.S. Magesh, Ramamoorthy., A. (2025)  <a href="https://doi.org/10.1016/j.hazadv.2025.100733" style="color: black">Hazardous trace elemental contamination in urban river sediments: Distribution, source identification, and Environmental impacts.</a>, <em>Journal of Hazardous Materials Advances</em>, Vol 19, pp 100733. </li>
 
 <li> V. Gopal, R.R. Krishnamurthy, R. Vignesh, <b>C. Sabari Nathan</b>, R. Anshu, R. Kalaivanan, P. Mohana, N.S. Magesh, K. Manikanda Bharath, A.Z. Ekoa Bessa, K. Abdelrahman, M. Abioui. (2023)  <a href="https://doi.org/10.1016/j.rsma.2023.103081" style="color: black">Assessment of heavy metal contamination in the surface sediments of the Vedaranyam coast, Southern India.</a>, <em>Regional Studies in Marine Science</em>, Vol 65, pp 103081. </li>
 
