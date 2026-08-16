@@ -14,8 +14,6 @@ I am an engineering geologist studying slope failures and their impact on mounta
 
 ## Research
 
-## Research
-
 **Why do slopes along mountain transport routes fail, and can we see it coming?**
 
 That question runs through my work. In mountain regions like the Western Ghats, roads and railways cross terrain that fails repeatedly, and every failure gets attributed to rain. But rain falls on the whole mountain, and only some slopes fail. The difference lies in what is under the surface and what moves over it.
