@@ -8,12 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-**Engineering geologist working on slope failures and their effects on mountain infrastructure.**
+**Engineering Geologist | Landslide Hazards | Geophysics & Geospatial Analysis | Mountain Infrastructure**
 
-I completed my PhD at the [Centre for Disaster Mitigation and Management](https://vit.ac.in/centers/cdmm/), [Vellore Institute of Technology (VIT)](https://vit.ac.in/), under [Dr. G. P. Ganapathy](https://vitdirectory.vit.ac.in/page/faculty/11345). My thesis looked at landslides along road corridors in the Nilgiris, Southern India, using geophysics and geospatial methods to study both natural causes and ground vibrations from traffic.
+## About Me
 
-Before that, I did an M.Sc. in Applied Geology at the University of Madras and a B.Sc. in Geology at Thiruvalluvar University. I have also worked as a Teaching cum Research Assistant at VIT, and interned in earthquake geophysics at the Wadia Institute of Himalayan Geology and in hydrogeology at the Central Ground Water Board.
+I am an engineering geologist studying slope failures and their impact on mountain infrastructure. My work combines field geophysics, geospatial analysis, and machine learning to understand why slopes fail and where they are likely to fail next.
 
-**What I work on:**
+## Research
 
-Landslides in the Western Ghats are usually blamed on rainfall alone, but roads and traffic on fragile slopes add stresses that rarely get measured. My research tries to fill that gap. I use field geophysics to understand what lies beneath these slopes, and machine learning models built on maintenance records to map where failures are most likely. The aim is practical: maps and numbers that road and railway agencies can actually use to decide where to spend on mitigation. I plan to extend this work to other hazards and other mountain regions.
+My doctoral research examined landslide–road interactions in the Nilgiris, Southern India. Rainfall is the standard explanation for landslides in the Western Ghats, yet traffic on fragile slopes adds ground vibrations that are rarely measured. To fill this gap, I used geophysical surveys to characterise the subsurface, field instruments to record vehicle-induced vibrations, and machine learning models trained on long-term maintenance records to map failure-prone stretches.
+
+The output is practical: susceptibility maps and quantitative evidence that road and railway agencies can use to prioritise mitigation. I am now extending this approach to other geological hazards and mountain regions.
+
+## Education
+
+- **PhD**, [Centre for Disaster Mitigation and Management](https://vit.ac.in/centers/cdmm/), [Vellore Institute of Technology (VIT)](https://vit.ac.in/) — Advisor: [Dr. G. P. Ganapathy](https://vitdirectory.vit.ac.in/page/faculty/11345)
+- **M.Sc. Applied Geology**, University of Madras
+- **B.Sc. Geology**, Thiruvalluvar University
+
+## Experience
+
+- **Teaching cum Research Assistant**, Vellore Institute of Technology (VIT)
+- **Research Intern, Earthquake Geophysics**, Wadia Institute of Himalayan Geology
+- **Research Intern, Hydrogeology**, Central Ground Water Board
