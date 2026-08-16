@@ -8,17 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-**Engineering Geologist | Landslide Hazards | Geophysics & Geospatial Analysis | Mountain Infrastructure**
-
 ## About Me
 
 I am an engineering geologist studying slope failures and their impact on mountain infrastructure. My work combines field geophysics, geospatial analysis, and machine learning to understand why slopes fail and where they are likely to fail next.
 
 ## Research
 
-My doctoral research examined landslide–road interactions in the Nilgiris, Southern India. Rainfall is the standard explanation for landslides in the Western Ghats, yet traffic on fragile slopes adds ground vibrations that are rarely measured. To fill this gap, I used geophysical surveys to characterise the subsurface, field instruments to record vehicle-induced vibrations, and machine learning models trained on long-term maintenance records to map failure-prone stretches.
+## Research
 
-The output is practical: susceptibility maps and quantitative evidence that road and railway agencies can use to prioritise mitigation. I am now extending this approach to other geological hazards and mountain regions.
+**Why do slopes along mountain transport routes fail, and can we see it coming?**
+
+That question runs through my work. In mountain regions like the Western Ghats, roads and railways cross terrain that fails repeatedly, and every failure gets attributed to rain. But rain falls on the whole mountain, and only some slopes fail. The difference lies in what is under the surface and what moves over it.
+
+My research interests follow from that:
+
+- **Subsurface controls on slope failure:** using geophysics to image the weathered zones, water pathways, and weak layers that surface mapping misses
+- **Anthropogenic triggers:** measuring how traffic, construction, and land-use change load fragile slopes alongside natural drivers
+- **Data-driven susceptibility mapping:** building machine learning models on ground-truth inventories to predict failure-prone stretches at scales that agencies can act on
+- **Hazard–infrastructure interaction:** quantifying what slope failures cost transport networks and where mitigation matters most
+
+The end goal is always the same: evidence that administrators can use, not just publications. Details of my completed work are on the [Publications](/publications/) page.
 
 ## Education
 
