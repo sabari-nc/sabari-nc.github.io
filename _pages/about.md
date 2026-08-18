@@ -19,8 +19,18 @@ I am an engineering geologist studying slope failures and their impact on mounta
 That question runs through my work. In mountain regions like the Western Ghats, roads and railways cross terrain that fails repeatedly, and every failure gets attributed to rain. But rain falls on the whole mountain, and only some slopes fail. The difference lies in what is under the surface and what moves over it.
 
 <p align="center">
-  <video src="/images/ls_simulation_web.mp4" poster="/images/ls_simulation_poster.jpg" width="720" autoplay muted loop playsinline></video>
+  <video id="ls-simulation" src="/images/ls_simulation_web.mp4" poster="/images/ls_simulation_poster.jpg" width="720" autoplay muted loop playsinline preload="auto"></video>
 </p>
+<script>
+  (function () {
+    var v = document.getElementById('ls-simulation');
+    if (!v) return;
+    v.muted = true;
+    var tryPlay = function () { v.play().catch(function () {}); };
+    tryPlay();
+    v.addEventListener('loadedmetadata', tryPlay);
+  })();
+</script>
 
 My research interests follow from that:
 
