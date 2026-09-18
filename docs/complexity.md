@@ -17,6 +17,6 @@ The redesign adds no client-side JavaScript. Navigation uses standard links and 
 | `_config.yml` and `.gitignore` | Configuration | Not applicable |
 | GitHub Pages workflow | One branch condition prevents preview branches from deploying | Declarative workflow; one conditional gate |
 
-An existing broken image was removed from one blog article. Its prose and existing research code were not rewritten. Existing code samples in other articles are outside the redesign scope.
+An existing broken image was removed from one blog article, and an unclosed Markdown code fence was repaired in the mapping article. Its prose and existing research code were not rewritten. Existing code samples in other articles are outside the redesign scope.
 
 Temporary authoring, rendering, and validation helpers are not part of the deployed site. No JavaScript libraries or runtime dependencies were added to the website.

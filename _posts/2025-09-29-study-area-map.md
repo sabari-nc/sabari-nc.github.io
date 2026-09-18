@@ -118,3 +118,4 @@ def make_study_area_map(dem_path, district_path,
     fig.savefig(out_folder/"study_area_map.png",dpi=300,bbox_inches="tight")
     fig.savefig(out_folder/"study_area_map.pdf",dpi=300,bbox_inches="tight")
     plt.close(fig)
+```
