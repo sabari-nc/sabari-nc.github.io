@@ -15,5 +15,5 @@
 <nav aria-label="Main navigation"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/publications/' | relative_url }}">Publications</a><a href="{{ '/blog/' | relative_url }}">Writing</a></nav>
 </header>
 <main id="main">{{ content }}</main>
-<footer class="site-footer"><div><strong>Sabari Nathan C., PhD</strong></div><div class="footer-links"><a href="https://github.com/sabari-nc">GitHub</a><a href="https://orcid.org/0000-0001-9876-1657">ORCID</a></div></footer>
+<footer class="site-footer">{% if page.url == "/" %}<p class="collaboration-note">Interested in research collaborations? Reach out on <a href="https://www.linkedin.com/in/sabarinathan070" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="https://www.researchgate.net/profile/Sabari-Nathan-C" target="_blank" rel="noopener noreferrer">ResearchGate</a>.</p>{% endif %}<div><strong>Sabari Nathan C., PhD</strong></div><div class="footer-links"><a href="https://github.com/sabari-nc" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://orcid.org/0000-0001-9876-1657">ORCID</a></div></footer>
 </body></html>

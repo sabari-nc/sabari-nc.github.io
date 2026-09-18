@@ -57,7 +57,7 @@ author_profile: true
 <li> <b>Sabari Nathan, C.</b>, Subramanian, S., & Ganapathy, G. P. Seismic Damage Potential Mapping and Retrofitting Prioritization of Critical Lifeline Structures Using Rapid Visual Screening and an Integrated GIS-MCDM Framework: A Case Study from the Composite Vellore District, India. </li>
 </ol>
 
-### Environmental Geochemistry
+### Environmental Geochemistry (Prior research - postgraduate work)
 
 <ol reversed>
 <li> Prakasheswar, P., Sivapriya, V., <b>Sabari Nathan, C.</b>, Ramya, S., & Hussain, S. M. (2026) <a href="https://doi.org/10.1016/j.marpolbul.2026.119297">Non-linear ecological responses of Ostracod communities to multi-metal pollution based on tolerance-weighted indices from the Vedaranyam shelf, Bay of Bengal, India.</a>, <em>Marine Pollution Bulletin</em>, Vol 225, 119297. </li>

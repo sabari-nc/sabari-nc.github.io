@@ -63,6 +63,7 @@ h3 { font-size: 1.1rem; }
 .methods { margin-top: .6rem; color: var(--muted); font-size: .8rem; }
 .site-footer { display: flex; flex-wrap: wrap; gap: .6rem 1.5rem; align-items: center; justify-content: space-between; border-top: 1px solid var(--line); padding: 1rem 0; margin-top: .5rem; font-size: .875rem; }
 .site-footer strong { font-weight: 500; color: var(--muted); }
+.collaboration-note { flex-basis: 100%; margin: 0; }
 .footer-links { display: flex; gap: 1.1rem; }
 .footer-links a { min-height: 40px; display: inline-flex; align-items: center; }
 .page-heading { padding: 1.8rem 0 1.1rem; max-width: 850px; }
