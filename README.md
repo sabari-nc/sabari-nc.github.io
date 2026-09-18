@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sabarinathan070" target="blank"><img src="https://img.shields.io/twitter/follow/sabarinathan070?logo=twitter&style=for-the-badge" alt="sabarinathan070" /></a> </p>
 
-- 📫 How to reach me **sabarinathan070@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

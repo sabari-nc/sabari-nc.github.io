@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<section class="page-heading"><p class="eyebrow">Research output</p><h1>Publications</h1><p>Journal articles, research data, and conference contributions.</p><a href="https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&amp;hl=en">View Google Scholar profile</a></section>
-<div class="reading" markdown="1">
+<h1 class="sr-only">Publications</h1>
+<div class="reading publications" markdown="1">
 
 
 ## Peer-reviewed publications
