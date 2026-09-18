@@ -1,54 +1,27 @@
 ---
+layout: portfolio
 permalink: /
-title: "Hello!"
-excerpt: "About me"
-author_profile: true
+title: "Engineering Geologist"
+excerpt: "Sabari Nathan C., PhD. Engineering geology, landslide research, and mountain infrastructure."
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## About Me
-
-I am an engineering geologist studying slope failures and their impact on mountain infrastructure. My work combines field geophysics, geospatial analysis, and machine learning to understand why slopes fail and where they are likely to fail next.
-
-## Research
-
-**Why do slopes along mountain transport routes fail, and can we see it coming?**
-
-That question runs through my work. In mountain regions like the Western Ghats, roads and railways cross terrain that fails repeatedly, and every failure gets attributed to rain. But rain falls on the whole mountain, and only some slopes fail. The difference lies in what is under the surface and what moves over it.
-
-<p align="center">
-  <video id="ls-simulation" src="/images/ls_simulation_web.mp4" poster="/images/ls_simulation_poster.jpg" width="720" autoplay muted loop playsinline preload="auto"></video>
-</p>
-<script>
-  (function () {
-    var v = document.getElementById('ls-simulation');
-    if (!v) return;
-    v.muted = true;
-    var tryPlay = function () { v.play().catch(function () {}); };
-    tryPlay();
-    v.addEventListener('loadedmetadata', tryPlay);
-  })();
-</script>
-
-My research interests follow from that:
-
-- **Subsurface controls on slope failure:** using geophysics to image the weathered zones, water pathways, and weak layers that surface mapping misses
-- **Anthropogenic triggers:** measuring how traffic, construction, and land-use change load fragile slopes alongside natural drivers
-- **Data-driven susceptibility mapping:** building machine learning models on ground-truth inventories to predict failure-prone stretches at scales that agencies can act on
-- **Hazard–infrastructure interaction:** quantifying what slope failures cost transport networks and where mitigation matters most
-
-The end goal is always the same: evidence that administrators can use, not just publications. Details of my completed work are on the [Publications](/publications/) page.
-
-## Education
-
-- **PhD**, [Centre for Disaster Mitigation and Management](https://vit.ac.in/centers/cdmm/), [Vellore Institute of Technology (VIT)](https://vit.ac.in/) — Advisor: [Dr. G. P. Ganapathy](https://vitdirectory.vit.ac.in/page/faculty/11345)
-- **M.Sc. Applied Geology**, University of Madras
-- **B.Sc. Geology**, Thiruvalluvar University
-
-## Experience
-
-- **Teaching cum Research Assistant**, Vellore Institute of Technology (VIT)
-- **Research Intern, Earthquake Geophysics**, Wadia Institute of Himalayan Geology
-- **Research Intern, Hydrogeology**, Central Ground Water Board
+<section class="hero">
+<div><p class="eyebrow">Engineering Geologist · Geohazards Researcher</p><h1>Sabari Nathan C.<span class="degree">PhD</span></h1>
+<p class="lead">I study slope failures and their impact on mountain infrastructure.</p><p>My work combines field geophysics, geospatial analysis, and machine learning to understand landslide processes and map susceptible terrain.</p>
+<div class="social-links" aria-label="Academic and professional profiles"><a class="scholar" href="https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&amp;hl=en">Google Scholar</a><a class="orcid" href="https://orcid.org/0000-0001-9876-1657">ORCID</a><a href="https://github.com/sabari-nc">GitHub</a><a class="researchgate" href="https://www.researchgate.net/profile/Sabari-Nathan-C">ResearchGate</a><a class="linkedin" href="https://www.linkedin.com/in/sabarinathan070">LinkedIn</a><a class="email" href="mailto:sabarinathan070@outlook.com">Email</a></div></div>
+<figure class="portrait"><img src="/images/profile.png" width="400" height="500" alt="Sabari Nathan C." fetchpriority="high"></figure>
+</section>
+<section class="section" id="research"><div class="section-head"><h2>Selected research</h2><a href="https://github.com/sabari-nc?tab=repositories">Research repositories</a></div><div class="research-grid">
+<article class="research-item"><span class="number">01 / Mountain infrastructure</span><h3><a href="https://github.com/sabari-nc/nilgiri-mountain-railway-lsm">Nilgiri Mountain Railway</a></h3><p>Mapping landslide-prone slopes along the railway using machine learning. Research code, a trained model, and susceptibility maps.</p><a class="project-link" href="https://github.com/sabari-nc/nilgiri-mountain-railway-lsm">Explore project ↗</a><div class="methods">Machine learning · Geospatial analysis</div></article>
+<article class="research-item"><span class="number">02 / Rainfall and landslides</span><h3><a href="https://github.com/sabari-nc/Nilgiris-Rainfall-and-Landslide-Susceptibility-AHP-Method-">Changing rainfall in the Nilgiris</a></h3><p>Studying how changing rainfall patterns relate to landslide frequency and intensity in the Western Ghats.</p><a class="project-link" href="https://github.com/sabari-nc/Nilgiris-Rainfall-and-Landslide-Susceptibility-AHP-Method-">Explore project ↗</a><div class="methods">Rainfall analysis · Susceptibility mapping</div></article>
+<article class="research-item"><span class="number">03 / Slope stability</span><h3><a href="https://github.com/sabari-nc/thiruvannamalai-landslide-susceptibility">Thiruvannamalai slopes</a></h3><p>Assessing where landslides may occur and how rainfall affects slope stability through statistical and physical models.</p><a class="project-link" href="https://github.com/sabari-nc/thiruvannamalai-landslide-susceptibility">Explore project ↗</a><div class="methods">Frequency Ratio · TRIGRS</div></article>
+</div></section>
+<section class="section focus"><div class="focus-copy"><p class="eyebrow">Research focus</p><h2>Looking beneath<br>the surface.</h2><p>Rain falls across a mountain, but only some slopes fail. I investigate the ground conditions, water pathways, and human activities that help explain the difference.</p><p>My interests include subsurface controls on slope failure, traffic and construction impacts, and the protection of mountain roads and railways.</p></div><figure><video controls playsinline preload="none" poster="/images/ls_simulation_poster.jpg" aria-label="Landslide simulation"><source src="/images/ls_simulation_web.mp4" type="video/mp4">Your browser does not support video. <a href="/images/ls_simulation_web.mp4">Download the landslide simulation</a>.</video><figcaption>Landslide simulation. Select play to view.</figcaption></figure></section>
+<section class="section"><div class="section-head"><h2>Selected publications</h2><a href="/publications/">All publications</a></div>
+<article class="paper"><time>2026</time><div><h3><a href="https://doi.org/10.46698/VNC.2026.14.82.001">The Role of Hydrology in Hillslope Monitoring and Landslide Risk Mitigation</a></h3><p>Geology and Geophysics of Russia South</p></div></article>
+<article class="paper"><time>2025</time><div><h3><a href="https://doi.org/10.1080/19475705.2025.2532046">Evaluation of ground conditions and vehicle-induced vibration using Spatio-geophysical approach for the Nilgiris landslide transportation interaction corridor, Western Ghats, India</a></h3><p>Geomatics, Natural Hazards and Risk</p></div></article>
+<article class="paper"><time>2024</time><div><h3><a href="https://doi.org/10.1016/j.pdisas.2024.100351">Quantifying the impact of changing rainfall patterns on landslide frequency and intensity in the Nilgiris District of Western Ghats, India</a></h3><p>Progress in Disaster Science</p></div></article>
+</section>
+<section class="contact-band"><div><h2>Get in touch</h2><p>For research enquiries and collaboration.</p></div><a href="mailto:sabarinathan070@outlook.com">sabarinathan070@outlook.com</a></section>

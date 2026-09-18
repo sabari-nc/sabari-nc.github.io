@@ -9,7 +9,6 @@ image: /images/blog/social-report.jpg
 {% raw %}
 <div style="text-align: justify; line-height: 1.6; margin: 0 2rem; padding-bottom: 1rem;">
   <div style="max-width: 900px; margin: 0 auto;">
-    <img src="{{ post.image | relative_url }}" alt="Preview image for {{ post.title }}" style="width: 100%; max-width: 600px; height: auto; margin-bottom: 1.5rem;">
 
     <p style="margin-bottom: 1.5rem;">The term ‘Environmentalist’ denotes every person who studies, comprehends and advocates for the welfare of the environment and other living organisms. They play a vital role in environmental protection as they voice out against any anthropogenic activities that disturb the harmony of nature. To think about our environment and to care for it in this modern era, wherein we humans have almost forgotten the fact that the world is a combined home for millions and millions of species living within, is a remarkable task. Despite having played such a significant role in today’s world, they are little recognized or in the worst case even unrecognized.</p>
 

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sabari Nathan, C. (Ph.D.)"
+title                    : "Sabari Nathan C., PhD"
 title_separator          : "-"
 name                     : &name "Sabari Nathan,C. (Ph.D.)"
-description              : &description "personal description"
+description              : &description "Engineering geology, landslide research, and mountain infrastructure."
 url                      : https://sabari-nc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sabari-nc/sabari-nc.github.io"
@@ -92,10 +92,10 @@ author:
   github           : "sabari-nc"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/isabari_nc/"
+  instagram        : "isabari_nc"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/sabarinathan070"
+  linkedin         : "sabarinathan070"
   orcid            : "https://orcid.org/0000-0001-9876-1657"
   pinterest        :
   soundcloud       :
