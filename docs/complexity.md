@@ -22,3 +22,7 @@ An existing broken image was removed from one blog article, and an unclosed Mark
 Temporary authoring, rendering, and validation helpers are not part of the deployed site. No JavaScript libraries or runtime dependencies were added to the website.
 
 The homepage simulation uses native muted autoplay, looping, inline playback, and visible controls. The Research overview page was removed. External GitHub, LinkedIn, and ResearchGate links use standard HTML new-tab attributes. No script control flow was added.
+
+## Michelangelus typography
+
+`assets/css/portfolio.css` selects locally installed Michelangelus throughout the portfolio, including code text and form controls, with Georgia and Times New Roman as serif fallbacks. No font files are redistributed. CSS adds no executable control-flow paths; cyclomatic complexity is not applicable. The Microsoft download license does not grant redistribution rights, so universal delivery requires separate webfont permission.
